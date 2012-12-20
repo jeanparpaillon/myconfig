@@ -7,7 +7,8 @@
   ;; If there is more than one, they won't work right.
  '(inhibit-startup-screen t)
  '(safe-local-variable-values (quote ((TeX-master . ""))))
- '(tabkey2-mode t))
+ '(tabkey2-mode t)
+ '(tab-width 2))
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
